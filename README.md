@@ -1,6 +1,6 @@
 ![Header](./assets/banner.png)
 
-### About me &nbsp;<img src='assets/octo.png' width='38' alt='pixel octopus' valign='middle'>
+### <img src='assets/octo.png' width='38' alt='pixel octopus' valign='middle'>&nbsp; About me
 
 I like following whatever idea happens to drift into my head and seeing where it takes me. I care
 about making things that feel good to use, and I'm not afraid to learn a new corner of the stack
@@ -13,7 +13,7 @@ to get there.
 
 ---
 
-### Languages and Tools:
+### <img src='assets/computer.png' width='38' alt='pixel computer' valign='middle'>&nbsp; Languages and Tools
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py&theme=light" alt="python" height="48"/></a>
@@ -41,7 +41,7 @@ to get there.
   <br>
 </p>
 
-### 📫 Reach me
+### <img src='assets/map.png' width='38' alt='pixel map' valign='middle'>&nbsp; Reach me
 
 <p align="left">
   <a href="mailto:reamammen09@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="email" height="48"/></a>
