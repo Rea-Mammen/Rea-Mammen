@@ -1,15 +1,26 @@
-![Header](./assets/banner.png)
+![Header](./assets/banner.svg)
 
 ### <img src='assets/octo.png' width='38' alt='pixel octopus' valign='middle'>&nbsp; About me
 
-Curious builder. I make things across the stack; I've shipped backend APIs and cloud infrastructure, a published browser game, a native macOS app, and small automations that started as *"I wonder if I could…"*. I care
-about making things that feel good to use, and I'm not afraid to learn a new corner of the stack
-to get there.
+<table>
+<tr>
+<td valign="top" width="62%">
+
+Curious builder. I make things across the stack; I've shipped backend APIs and cloud infrastructure, a published browser game, a native macOS app, and small automations that started as *"I wonder if I could…"*. I care about making things that feel good to use, and I'm not afraid to learn a new corner of the stack to get there.
 
 - 📝 I occasionally post on [Substack](https://substack.com/@reamammen)
 - 📸 I keep a photography / creative dump on [Instagram](https://www.instagram.com/rea_mammen/)
 - 💬 Ask me about: **what I'm working on** 👀
 - ⚡ Fun fact: **I think I'm funny**
+
+</td>
+<td valign="top" width="58%" align="center">
+
+<img src="assets/duck.gif" width="240" alt="pixel duck" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -35,11 +46,6 @@ to get there.
 </p>
 
 ---
-
-<p align="center">
-  <img src='assets/computer.svg' width='300' alt='pixel computer typing hi'>
-  <br>
-</p>
 
 ### <img src='assets/map.png' width='38' alt='pixel map' valign='middle'>&nbsp; Reach me
 
