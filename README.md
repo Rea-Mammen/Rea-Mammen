@@ -2,7 +2,7 @@
 
 ### <img src='assets/octo.png' width='38' alt='pixel octopus' valign='middle'>&nbsp; About me
 
-<img align="right" width="34%" src="assets/duck.gif" alt="pixel duck" />
+<img align="right" width="25%" src="assets/duck.gif" alt="pixel duck" />
 
 Curious builder. I make things across the stack; I've shipped backend APIs and cloud infrastructure, a published browser game, a native macOS app, and small automations that started as *"I wonder if I could…"*. I care about making things that feel good to use, and I'm not afraid to learn a new corner of the stack to get there.
 
